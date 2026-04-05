@@ -14,12 +14,9 @@ Contains information about orders, customers, sales, profit, and regions.
 ## Tool used 
 SQL,Github
 ## Project Structure
-sql-superstore-analysis
-│
-├── dataset
-│   └── superstore.csv
-│
-├── sql
-│   └── analysis.sql
-│
-└── README.md
+-sql-superstore-analysis
+ 1,dataset
+   superstore.csv
+ 2,sql
+ analysis.sql
+ 3, README.md
